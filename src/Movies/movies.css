@@ -1,0 +1,19 @@
+* {
+    margin: 0%;
+    padding: 0%;
+  }
+  
+.details-pic{
+    height: 600px;
+  }
+ 
+  .Container-pic{
+    padding: 1%;
+    margin: 3%;
+    justify-content: center;
+
+  }
+  
+.pre-card{
+  font-size: large;
+}
